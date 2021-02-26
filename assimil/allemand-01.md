@@ -18,34 +18,39 @@ Wir wünschen viel Vergnügen
 
 ### Übersetzen Sie bitte
 
-Sie lernen heute Deutsch.
+Sie lernen heute Deutsch.  
+
    Vous apprenez l'allemand aujourd'hui.  
    You're learning German today.  
    Estás aprendiendo alemán hoy.  
    您今天正在学习德语。- Nín jīntiān zhèngzài (in process of) xuéxí déyǔ.  
    Вы учите немецкий язык.  
 
-Guten Tag.
+Guten Tag.  
+
    Bonjour.  
    Good day.  
    Buenos días  
    你好 - Nǐ hǎo  
    Доброе утро - Dobroye utro  
 
-arum lernen Sie Deutsch ?
+Warum lernen Sie Deutsch ?  
+
    Pourquoi apprenez-vous l'allemand?  
    Why do you learn German?  
    ¿Por qué aprendes alemán?  
    你为什么学德语? -  
 
-Wir wünschen viel Glück.
+Wir wünschen viel Glück.  
+
    Nous vous souhaitons bonne chance.  
    We wish you you good luck.  
    Deseamos buena suerte.  
    我们祝你好运。- Wǒmen zhù nǐ hǎo yùn.  
    Желаем удачи. - Zhelayem udachi.  
 
-Warum ist heute ein grosser Tag ?
+Warum ist heute ein grosser Tag ?  
+
    Pourquoi c'est un graand jour aujourd'hui ?  
    Why is today a grand day ?  
    ¿Por qué hoy es un gran día?  
